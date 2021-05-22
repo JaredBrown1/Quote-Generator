@@ -1,2 +1,1 @@
-Quote Generator
 # Quote-Generator
